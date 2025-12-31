@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "6954e18afb46611f9f4b1ea7"
+  },
+  "courseName": "test1",
+  "description": "tes1",
+  "duration": 12,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-31T08:40:42.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-31T08:40:42.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "courseName": "Introduction to Computer Science",
+  "description": "Learn the fundamentals of programming, algorithms, and computer systems. Covers basic concepts in Python programming and computational thinking.",
+  "duration": 6,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-01-15T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439012"
+  },
+  "courseName": "Web Development Fundamentals",
+  "description": "Master HTML, CSS, and JavaScript to build modern websites. Learn responsive design and basic front-end development techniques.",
+  "duration": 8,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-01-20T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439013"
+  },
+  "courseName": "Data Structures and Algorithms",
+  "description": "Deep dive into advanced data structures, sorting algorithms, and optimization techniques. Essential for software engineering interviews.",
+  "duration": 12,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439014"
+  },
+  "courseName": "Database Management Systems",
+  "description": "Learn SQL, NoSQL databases, and database design principles. Covers MongoDB, PostgreSQL, and database optimization.",
+  "duration": 10,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-02-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439015"
+  },
+  "courseName": "Machine Learning Basics",
+  "description": "Introduction to machine learning concepts, supervised and unsupervised learning, and practical applications using Python.",
+  "duration": 14,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-02-15T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439016"
+  },
+  "courseName": "Cybersecurity Fundamentals",
+  "description": "Learn about network security, encryption, ethical hacking, and best practices for securing digital systems.",
+  "duration": 9,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-03-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439017"
+  },
+  "courseName": "Mobile App Development",
+  "description": "Build native mobile applications for iOS and Android using React Native. Learn cross-platform development techniques.",
+  "duration": 16,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-03-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439018"
+  },
+  "courseName": "Cloud Computing with AWS",
+  "description": "Master Amazon Web Services, cloud architecture, serverless computing, and scalable application deployment.",
+  "duration": 11,
+  "status": "inactive",
+  "createdAt": {
+    "$date": "2024-01-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439019"
+  },
+  "courseName": "Game Development with Unity",
+  "description": "Create 2D and 3D games using Unity engine. Learn C# programming, physics, animation, and game design principles.",
+  "duration": 18,
+  "status": "inactive",
+  "createdAt": {
+    "$date": "2024-01-05T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439020"
+  },
+  "courseName": "DevOps and CI/CD",
+  "description": "Learn continuous integration, deployment pipelines, containerization with Docker, and infrastructure automation.",
+  "duration": 13,
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-03-20T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T10:00:00.000Z"
+  }
+}]

@@ -1,0 +1,160 @@
+[
+  {
+    "studentName": "Alice Johnson",
+    "email": "alice.johnson@email.com",
+    "course": "507f1f77bcf86cd799439011",
+    "enrollmentDate": "2024-01-20T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439011": "A",
+      "507f1f77bcf86cd799439012": "A-",
+      "507f1f77bcf86cd799439013": "B+"
+    }
+  },
+  {
+    "studentName": "Bob Smith",
+    "email": "bob.smith@email.com",
+    "course": "507f1f77bcf86cd799439012",
+    "enrollmentDate": "2024-01-25T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439012": "B",
+      "507f1f77bcf86cd799439014": "A-"
+    }
+  },
+  {
+    "studentName": "Carol Davis",
+    "email": "carol.davis@email.com",
+    "course": "507f1f77bcf86cd799439013",
+    "enrollmentDate": "2024-02-05T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439011": "A",
+      "507f1f77bcf86cd799439013": "A",
+      "507f1f77bcf86cd799439015": "B+"
+    }
+  },
+  {
+    "studentName": "David Wilson",
+    "email": "david.wilson@email.com",
+    "course": "507f1f77bcf86cd799439014",
+    "enrollmentDate": "2024-02-15T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439014": "A-",
+      "507f1f77bcf86cd799439016": "B"
+    }
+  },
+  {
+    "studentName": "Emma Brown",
+    "email": "emma.brown@email.com",
+    "course": "507f1f77bcf86cd799439015",
+    "enrollmentDate": "2024-02-20T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439015": "B+",
+      "507f1f77bcf86cd799439017": "A"
+    }
+  },
+  {
+    "studentName": "Frank Miller",
+    "email": "frank.miller@email.com",
+    "course": "507f1f77bcf86cd799439016",
+    "enrollmentDate": "2024-03-05T08:00:00.000Z",
+    "status": "active",
+    "grades": {}
+  },
+  {
+    "studentName": "Grace Lee",
+    "email": "grace.lee@email.com",
+    "course": "507f1f77bcf86cd799439017",
+    "enrollmentDate": "2024-03-15T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439017": "A",
+      "507f1f77bcf86cd799439020": "A-"
+    }
+  },
+  {
+    "studentName": "Henry Taylor",
+    "email": "henry.taylor@email.com",
+    "course": "507f1f77bcf86cd799439018",
+    "enrollmentDate": "2024-01-10T08:00:00.000Z",
+    "status": "inactive",
+    "grades": {
+      "507f1f77bcf86cd799439011": "B",
+      "507f1f77bcf86cd799439012": "B-",
+      "507f1f77bcf86cd799439018": "C+"
+    }
+  },
+  {
+    "studentName": "Ivy Chen",
+    "email": "ivy.chen@email.com",
+    "course": "507f1f77bcf86cd799439019",
+    "enrollmentDate": "2024-01-12T08:00:00.000Z",
+    "status": "inactive",
+    "grades": {
+      "507f1f77bcf86cd799439011": "A-",
+      "507f1f77bcf86cd799439019": "B"
+    }
+  },
+  {
+    "studentName": "Jack Anderson",
+    "email": "jack.anderson@email.com",
+    "course": "507f1f77bcf86cd799439020",
+    "enrollmentDate": "2024-03-25T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439020": "A",
+      "507f1f77bcf86cd799439013": "A-"
+    }
+  },
+  {
+    "studentName": "Alice Cooper",
+    "email": "alice.cooper@email.com",
+    "course": "507f1f77bcf86cd799439011",
+    "enrollmentDate": "2024-04-01T08:00:00.000Z",
+    "status": "active",
+    "grades": {}
+  },
+  {
+    "studentName": "Bob Johnson",
+    "email": "bob.johnson@email.com",
+    "course": "507f1f77bcf86cd799439012",
+    "enrollmentDate": "2024-04-05T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439012": "B+"
+    }
+  },
+  {
+    "studentName": "Anna Williams",
+    "email": "anna.williams@email.com",
+    "course": "507f1f77bcf86cd799439013",
+    "enrollmentDate": "2024-04-10T08:00:00.000Z",
+    "status": "active",
+    "grades": {}
+  },
+  {
+    "studentName": "Michael Davis",
+    "email": "michael.davis@email.com",
+    "course": "507f1f77bcf86cd799439014",
+    "enrollmentDate": "2024-04-15T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439014": "A",
+      "507f1f77bcf86cd799439016": "A-"
+    }
+  },
+  {
+    "studentName": "Sarah Wilson",
+    "email": "sarah.wilson@email.com",
+    "course": "507f1f77bcf86cd799439015",
+    "enrollmentDate": "2024-04-20T08:00:00.000Z",
+    "status": "active",
+    "grades": {
+      "507f1f77bcf86cd799439015": "B",
+      "507f1f77bcf86cd799439017": "B+"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "courseName": "Introduction to Computer Science",
+    "description": "Learn the fundamentals of programming, algorithms, and computer systems. Covers basic concepts in Python programming and computational thinking.",
+    "duration": 6,
+    "status": "active"
+  },
+  {
+    "courseName": "Web Development Fundamentals",
+    "description": "Master HTML, CSS, and JavaScript to build modern websites. Learn responsive design and basic front-end development techniques.",
+    "duration": 8,
+    "status": "active"
+  },
+  {
+    "courseName": "Data Structures and Algorithms",
+    "description": "Deep dive into advanced data structures, sorting algorithms, and optimization techniques. Essential for software engineering interviews.",
+    "duration": 12,
+    "status": "active"
+  },
+  {
+    "courseName": "Database Management Systems",
+    "description": "Learn SQL, NoSQL databases, and database design principles. Covers MongoDB, PostgreSQL, and database optimization.",
+    "duration": 10,
+    "status": "active"
+  },
+  {
+    "courseName": "Machine Learning Basics",
+    "description": "Introduction to machine learning concepts, supervised and unsupervised learning, and practical applications using Python.",
+    "duration": 14,
+    "status": "active"
+  },
+  {
+    "courseName": "Cybersecurity Fundamentals",
+    "description": "Learn about network security, encryption, ethical hacking, and best practices for securing digital systems.",
+    "duration": 9,
+    "status": "active"
+  },
+  {
+    "courseName": "Mobile App Development",
+    "description": "Build native mobile applications for iOS and Android using React Native. Learn cross-platform development techniques.",
+    "duration": 16,
+    "status": "active"
+  },
+  {
+    "courseName": "Cloud Computing with AWS",
+    "description": "Master Amazon Web Services, cloud architecture, serverless computing, and scalable application deployment.",
+    "duration": 11,
+    "status": "inactive"
+  },
+  {
+    "courseName": "Game Development with Unity",
+    "description": "Create 2D and 3D games using Unity engine. Learn C# programming, physics, animation, and game design principles.",
+    "duration": 18,
+    "status": "inactive"
+  },
+  {
+    "courseName": "DevOps and CI/CD",
+    "description": "Learn continuous integration, deployment pipelines, containerization with Docker, and infrastructure automation.",
+    "duration": 13,
+    "status": "active"
+  }
+]

@@ -441,3 +441,221 @@ textarea:focus {
     transform: rotate(360deg);
   }
 }
+
+/* Settings Styles */
+.settings-container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+}
+
+.settings-group {
+  margin-bottom: 30px;
+}
+
+.settings-group h3 {
+  color: var(--text-color);
+  margin-bottom: 20px;
+  font-size: 18px;
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 10px;
+}
+
+.setting-item {
+  margin-bottom: 20px;
+}
+
+.setting-item label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.color-picker {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.color-option {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 3px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.color-option:hover {
+  transform: scale(1.1);
+}
+
+.color-option.selected {
+  border-color: #000;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.custom-color-input {
+  width: 50px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: none;
+}
+
+.custom-color-input::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+.custom-color-input::-webkit-color-swatch {
+  border: none;
+  border-radius: 50%;
+}
+
+#resetColorBtn {
+  background-color: #6b7280;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#resetColorBtn:hover {
+  background-color: #4b5563;
+}
+
+/* Gradesheets Styles */
+.gradesheets-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.gradesheets-header h2 {
+  color: var(--text-color);
+  margin-bottom: 20px;
+  font-size: 24px;
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 10px;
+}
+
+.student-search {
+  margin-bottom: 30px;
+}
+
+.search-group {
+  display: flex;
+  gap: 15px;
+  align-items: end;
+  max-width: 500px;
+}
+
+.search-group label {
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 5px;
+  display: block;
+}
+
+.search-group input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #e2e8f0;
+  border-radius: 5px;
+  outline: none;
+  font-size: 14px;
+}
+
+.search-group input:focus {
+  border-color: var(--primary-color);
+}
+
+.gradesheet-display {
+  background-color: #f8fafc;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.gradesheet-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.gradesheet-header h3 {
+  color: var(--text-color);
+  font-size: 20px;
+  margin: 0;
+}
+
+.grades-table {
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.grades-table table {
+  width: 100%;
+}
+
+.grades-table th {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 15px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.grades-table td {
+  padding: 15px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.grades-table tr:hover {
+  background-color: #f8fafc;
+}
+
+.grade-select {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 5px;
+  outline: none;
+  font-size: 14px;
+  background-color: white;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+}
+
+.grade-select:focus {
+  border-color: var(--primary-color);
+}
+
+.student-select {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  border: 1px solid #e2e8f0;
+  border-radius: 5px;
+  outline: none;
+  font-size: 14px;
+  margin-top: 15px;
+  background-color: white;
+}
+
+.student-select:focus {
+  border-color: var(--primary-color);
+}
